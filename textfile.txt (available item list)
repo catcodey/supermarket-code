@@ -1,0 +1,12 @@
+    Sno    items available    categories    price
+    1         milk               -           40
+    2         bread              -           50
+    3         vegetables        carrot       20
+                                potato       40
+                                cabbage      50
+                                
+    4         fruits            mango        80
+                                apple        100
+                                orange       70
+    
+    5         biscuits            -          60
