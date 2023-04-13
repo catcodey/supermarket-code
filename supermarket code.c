@@ -245,7 +245,7 @@ void star2(int price,int a)
     scanf("%s",disyes);
     if (strcmp(disyes,"yes")==0)
     {
-        printf("enetr coupon number(ENTER ONLY ONCE)");
+        printf("enetr coupon number(ENTER ONLY ONCE)"); //DISCOUNT COUPON NO:2000
         scanf("%d",&coupno);
         if (coupno==2000)
         {
